@@ -3,3 +3,5 @@ def greetBlack():
 
 
 print("Hello everyone")
+
+greetBlack()
